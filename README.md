@@ -20,11 +20,11 @@
     `brew install --cask iina`
  - Itsycal  
     `brew install --cask itsycal`
- - Tiles
+ - Tiles  
     `brew install --cask tiles`
 
 ### others
- - AdGuard (Safari extension)
+ - AdGuard ([Safari extension](https://apps.apple.com/in/app/adguard-for-safari/id1440147259?mt=12))
 
 ### commands
  - Change saved screenshots format from png to jpg  
