@@ -1,26 +1,26 @@
-### Oh My Zsh  
+### [Oh My Zsh](https://ohmyz.sh)  
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
 ### brew
- - Homebrew  
+ - [Homebrew](https://brew.sh)    
     `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
- - iTerm2 ([profile](./iterm2.json))  
+ - [iTerm2](https://iterm2.com/documentation-preferences-profiles-colors.html) ([profile](./iterm2.json))  
     `brew install --cask iterm2`
- - Alfred  
+ - [Alfred](https://www.alfredapp.com)    
     `brew install --cask alfred`
- - Visual Studio Code  
+ - [Visual Studio Code](https://code.visualstudio.com)    
     `brew install --cask visual-studio-code`
- - AppCleaner  
+ - [AppCleaner](https://freemacsoft.net/appcleaner/)    
     `brew install --cask appcleaner`
- - Maccy  
+ - [Maccy](https://maccy.app)    
     `brew install --cask maccy`
- - Transmission  
+ - [Transmission](https://transmissionbt.com)    
     `brew install --cask transmission`
- - IINA  
+ - [IINA](https://iina.io)    
     `brew install --cask iina`
- - Itsycal  
+ - [Itsycal](https://www.mowglii.com/itsycal/)    
     `brew install --cask itsycal`
- - Tiles  
+ - [Tiles](https://www.sempliva.com/tiles/)    
     `brew install --cask tiles`
 
 ### others
