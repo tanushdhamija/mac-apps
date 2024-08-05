@@ -1,9 +1,16 @@
-### [Oh My Zsh](https://ohmyz.sh)  
-`sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-
-### brew
+### terminal    
+ - [Oh My Zsh](https://ohmyz.sh)  
+   `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
  - [Homebrew](https://brew.sh)    
     `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+
+### brew (formulae)  
+ - [git](https://git-scm.com/download/mac)  
+ - [btop](https://github.com/aristocratos/btop)  
+ - [fastfetch](https://github.com/fastfetch-cli/fastfetch)  
+ - [speedtest-cli](https://www.speedtest.net/apps/cli)  
+
+### brew (cask)
  - [iTerm2](https://iterm2.com/documentation-preferences-profiles-colors.html) ([profile](./iterm2.json))  
     `brew install --cask iterm2`
  - [Alfred](https://www.alfredapp.com)    
