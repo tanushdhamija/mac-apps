@@ -27,8 +27,9 @@
     `brew install --cask iina`
  - [Itsycal](https://www.mowglii.com/itsycal/)    
     `brew install --cask itsycal`
- - [Tiles](https://www.sempliva.com/tiles/)    
-    `brew install --cask tiles`
+ - ~~[Tiles](https://www.sempliva.com/tiles/)    
+    `brew install --cask tiles`~~  
+    (built in functionality added to macOS 15)
 
 ### others
  - AdGuard ([Safari extension](https://apps.apple.com/in/app/adguard-for-safari/id1440147259?mt=12))
